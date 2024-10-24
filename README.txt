@@ -5,7 +5,7 @@ This is a React-based file management Test Web Page
 
 Installation and Running Instructions
 1. Clone the repository
-    git clone [repository URL]
+    git clone https://github.com/Upcccccc/Lab-Research-test.git
 2. Install dependencies
     npm install
 3. Run the project
