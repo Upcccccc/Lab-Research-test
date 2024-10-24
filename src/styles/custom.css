@@ -1,0 +1,22 @@
+.hover-bg-light:hover {
+    background-color: rgba(0,0,0,.05);
+}
+
+.smaller {
+    font-size: 0.875em;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.table th {
+    background-color: #0d6efd;
+    color: white;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(13,110,253,.1);
+}
+
+
